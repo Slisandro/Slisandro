@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 **📫 How to reach me:**
 
 
-  ***[Instagram](https://instagram.com/_slisandro)***
+  - ***[Instagram](https://instagram.com/_slisandro)***
