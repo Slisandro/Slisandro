@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
   - ***[Instagram](https://instagram.com/_slisandro)***
   - ***[LinkedIn](https://www.linkedin.com/in/salvareschilisandro/)***
-  - ***[Email](salvareschilisandro0@gmail.com)***
+  - ***[Email](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlRZVcvmcJWFHSKLzlHKxnKSrffccWgPTsGDQGlZNjQtPDhNrqvrsRbktGLBTtTrBHnPhg)***
