@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--5SXqnWZ2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2ciu6mo6r9x9zyverc10.gif)
 
 <!--
 **Slisandro/Slisandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
