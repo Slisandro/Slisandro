@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##Hi, I'm Lisandro Salvareschi, a Full Stack Developer 🚀 from Buenos Aires- Argentina, I have extensive experience in the design and building of web applications.
+**Hi, I'm Lisandro Salvareschi, a Full Stack Developer 🚀 from Buenos Aires- Argentina, I have extensive experience in the design and building of web applications.**
 
 **😄 Pronouns:** 
  ***I really have several, but tell me Licha or Lisan***
