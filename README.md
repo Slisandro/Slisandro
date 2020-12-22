@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 **Hi, I'm Lisandro Salvareschi, a Full Stack Developer 🚀 from Buenos Aires- Argentina, I have extensive experience in the design and building of web applications.**
 
-**😄 Pronouns:** 
- ***I really have several, but tell me Licha or Lisan***
+**😄 Pronouns: I really have several, but tell me Licha or Lisan**
 
 **🌱 I’m currently learning Python**
 
@@ -25,3 +24,4 @@ Here are some ideas to get you started:
 
 
   - ***[Instagram](https://instagram.com/_slisandro)***
+  - ***[LinkedIn](https://www.linkedin.com/in/salvareschilisandro/)***
