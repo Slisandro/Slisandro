@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 **😄 Pronouns: I really have several, but tell me Licha or Lisan**
 
-**🌱 I’m currently learning Python**
+**🌱 I’m currently learning ReactNative**
 
 **📫 How to reach me:**
 
