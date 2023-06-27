@@ -1,30 +1,48 @@
-![](https://res.cloudinary.com/practicaldev/image/fetch/s--5SXqnWZ2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2ciu6mo6r9x9zyverc10.gif)
 
-<!--
-**Slisandro/Slisandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Lisandro! 👋
 
-Here are some ideas to get you started:
+![](https://media2.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif?cid=ecf05e479ked85xb8g8ruj8um9wonum4pdpb7c2lbjdgg8o7&ep=v1_stickers_search&rid=giphy.gif&ct=s)
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
+I'm Lisandro, live in Buenos Aires, Argentina 🇦🇷
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-**Hi, I'm Lisandro Salvareschi, a Full Stack Developer 🚀 from Buenos Aires- Argentina, I have extensive experience in the design and building of web applications.**
+I have two years of experience in software development as frontend developer, fullstack developer, bug fixer and as freelance.
 
-**😄 Pronouns: I really have several, but tell me Licha or Lisan**
+My preferences is the frontend. My stack favorite is MongoDB, Express, React or Next JS, Node JS.
 
-**🌱 I’m currently learning ReactNative**
+I love learning and being updated to new trends. 
+
+My hobbies is travel ✈️ and makes animations 💻.
+
+Actually, I working as freelance in different projects. I learning and improving my skills
+## 🛠 Skills
+
+### Languages
+
+[![languages](https://skillicons.dev/icons?i=html,css,js,typescript,py,kotlin,graphql&perline=8)](https://skillicons.dev)
+
+### Libraries - Frameworks
+
+[![libraries](https://skillicons.dev/icons?i=react,remix,nextjs,redux,nodejs,express&perline=8)](https://skillicons.dev)
+
+### Styles
+[![libraries](https://skillicons.dev/icons?i=sass,bootstrap,materialui,tailwind,styledcomponents&perline=8)](https://skillicons.dev)
+
+### Database - ORM
+
+[![database](https://skillicons.dev/icons?i=mongo,mysql,sequelize,firebase,postgres,sqlite&perline=8)](https://skillicons.dev)
+
+### Tools
+
+[![tools](https://skillicons.dev/icons?i=vite,git,github,webpack,heroku,vercel,docker,regex&perline=8)](https://skillicons.dev)
+
+### Others 
+
+[![tools](https://skillicons.dev/icons?i=bash,powershell,babel,visualstudio,androidstudio&perline=8)](https://skillicons.dev)
+## 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://salvareschilisandro.vercel.app/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salvareschilisandro/)
 
 ![](https://komarev.com/ghpvc/?username=Slisandro&color=gray&style=for-the-badge)
-
-**📫 How to reach me:**
-
-
-  - ***[Instagram](https://instagram.com/_slisandro)***
-  - ***[LinkedIn](https://www.linkedin.com/in/salvareschilisandro/)***
-  - ***[Email](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlRZVcvmcJWFHSKLzlHKxnKSrffccWgPTsGDQGlZNjQtPDhNrqvrsRbktGLBTtTrBHnPhg)***
