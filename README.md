@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 **🌱 I’m currently learning ReactNative**
 
+![](https://komarev.com/ghpvc/?username=Slisandro&color=gray&style=for-the-badge)
+
 **📫 How to reach me:**
 
 
