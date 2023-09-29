@@ -8,18 +8,16 @@ I'm Lisandro, live in Buenos Aires, Argentina 🇦🇷
 
 I have two years of experience in software development as frontend developer, fullstack developer, bug fixer and as freelance.
 
-My preferences is the frontend. My stack favorite is MongoDB, Express, React or Next JS, Node JS.
-
-I love learning and being updated to new trends. 
+My preferences is the frontend and I love learning and being updated to new trends. 
 
 My hobbies is travel ✈️ and makes animations 💻.
 
-Actually, I working as freelance in different projects. I learning and improving my skills
+I learning and improving my skills
 ## 🛠 Skills
 
 ### Languages
 
-[![languages](https://skillicons.dev/icons?i=html,css,js,typescript,py,kotlin,graphql&perline=8)](https://skillicons.dev)
+[![languages](https://skillicons.dev/icons?i=html,css,js,typescript,py,graphql&perline=8)](https://skillicons.dev)
 
 ### Libraries - Frameworks
 
@@ -34,11 +32,11 @@ Actually, I working as freelance in different projects. I learning and improving
 
 ### Tools
 
-[![tools](https://skillicons.dev/icons?i=vite,git,github,webpack,heroku,vercel,docker,regex&perline=8)](https://skillicons.dev)
+[![tools](https://skillicons.dev/icons?i=vite,git,github,heroku,vercel,docker,regex&perline=8)](https://skillicons.dev)
 
 ### Others 
 
-[![tools](https://skillicons.dev/icons?i=bash,powershell,babel,visualstudio,androidstudio&perline=8)](https://skillicons.dev)
+[![tools](https://skillicons.dev/icons?i=powershell,babel,visualstudio&perline=8)](https://skillicons.dev)
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://salvareschilisandro.vercel.app/)
