@@ -6,7 +6,7 @@
 
 I'm Lisandro, live in Buenos Aires, Argentina 🇦🇷
 
-I have two years of experience in software development as frontend developer, fullstack developer, bug fixer and as freelance.
+I have two years of experience in software development as frontend developer, fullstack developer and bug fixer.
 
 My preferences is the frontend and I love learning and being updated to new trends. 
 
