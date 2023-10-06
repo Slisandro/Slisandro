@@ -17,13 +17,14 @@ I learning and improving my skills
 
 ### Languages
 
-[![languages](https://skillicons.dev/icons?i=html,css,js,typescript,py,graphql&perline=8)](https://skillicons.dev)
+[![languages](https://skillicons.dev/icons?i=html,css,js,typescript,py&perline=8)](https://skillicons.dev)
 
 ### Libraries - Frameworks
 
 [![libraries](https://skillicons.dev/icons?i=react,remix,nextjs,redux,nodejs,express&perline=8)](https://skillicons.dev)
 
 ### Styles
+
 [![libraries](https://skillicons.dev/icons?i=sass,bootstrap,materialui,tailwind,styledcomponents&perline=8)](https://skillicons.dev)
 
 ### Database - ORM
@@ -34,9 +35,6 @@ I learning and improving my skills
 
 [![tools](https://skillicons.dev/icons?i=vite,git,github,heroku,vercel,docker,regex&perline=8)](https://skillicons.dev)
 
-### Others 
-
-[![tools](https://skillicons.dev/icons?i=powershell,babel,visualstudio&perline=8)](https://skillicons.dev)
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://salvareschilisandro.vercel.app/)
