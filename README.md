@@ -1,7 +1,6 @@
 
 # Hi, I'm Lisandro! 👋
 
-![](https://media2.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif?cid=ecf05e479ked85xb8g8ruj8um9wonum4pdpb7c2lbjdgg8o7&ep=v1_stickers_search&rid=giphy.gif&ct=s)
 ## 🚀 About Me
 
 I'm Lisandro, live in Buenos Aires, Argentina 🇦🇷
