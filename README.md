@@ -21,7 +21,7 @@ I learning and improving my skills
 
 ### Styles
 
-[![libraries](https://skillicons.dev/icons?i=materialui,tailwind,tailwind,less,sass&perline=8)](https://skillicons.dev)
+[![libraries](https://skillicons.dev/icons?i=materialui,tailwind,less,sass&perline=8)](https://skillicons.dev)
 
 ### Backend
 
