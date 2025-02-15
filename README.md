@@ -15,25 +15,30 @@ My hobbies is travel ✈️ and makes animations 💻.
 I learning and improving my skills
 ## 🛠 Skills
 
-### Languages
+### Frontend
 
-[![languages](https://skillicons.dev/icons?i=html,css,js,typescript,py&perline=8)](https://skillicons.dev)
-
-### Libraries - Frameworks
-
-[![libraries](https://skillicons.dev/icons?i=react,remix,nextjs,redux,nodejs,express&perline=8)](https://skillicons.dev)
+[![languages](https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux&perline=8)](https://skillicons.dev)
 
 ### Styles
 
-[![libraries](https://skillicons.dev/icons?i=sass,bootstrap,materialui,tailwind,styledcomponents&perline=8)](https://skillicons.dev)
+[![libraries](https://skillicons.dev/icons?i=materialui,tailwind,tailwind,less,sass&perline=8)](https://skillicons.dev)
 
-### Database - ORM
+### Backend
 
-[![database](https://skillicons.dev/icons?i=mongo,mysql,sequelize,firebase,postgres,sqlite&perline=8)](https://skillicons.dev)
+[![libraries](https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,apollo&perline=8)](https://skillicons.dev)
 
-### Tools
+### Database
 
-[![tools](https://skillicons.dev/icons?i=vite,git,github,heroku,vercel,docker,regex&perline=8)](https://skillicons.dev)
+[![database](https://skillicons.dev/icons?i=mongo,postgres,dynamodb,firebase&perline=8)](https://skillicons.dev)
+
+### Cloud
+
+[![tools](https://skillicons.dev/icons?i=aws,gcp&perline=8)](https://skillicons.dev)
+
+
+### Others
+
+[![tools](https://skillicons.dev/icons?i=github,bitbucket&perline=8)](https://skillicons.dev)
 
 ## 🔗 Links
 
